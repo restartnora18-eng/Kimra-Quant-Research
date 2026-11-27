@@ -9,8 +9,8 @@
 
 ## 论文索引
 
-| 编号 | 论文名称 | 年份 | 研究领域 | 原文 | 笔记 | 笔记状态 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Paper 001 | [FinRL Contests: Data-Driven Financial Reinforcement Learning Agents for Stock and Crypto Trading](papers/001_FinRL_Contests/paper.md) | 2025 | 因子挖掘，强化学习，模型训练，量化交易，计算金融 | [出版社原文](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/aie2.12004) | [阅读笔记](notes/001_FinRL_Contests.md) | 待整理 |
-| Paper 002 | [智能体量化交易：工作流、系统与评估综述](papers/002_Agentic_Quantitative_Trading/paper.md) | 2026 | 智能体系统，量化交易 | [arXiv 原文](https://arxiv.org/abs/2608.31041) | [阅读笔记](notes/002_Agentic_Quantitative_Trading.md) | 暂缓研读 |
-| Paper 003 | [FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading](papers/003_FinRL_X/paper.md) | 2026 | 量化交易基础设施，投资组合优化，强化学习 | [arXiv 原文](https://arxiv.org/abs/2603.21330v1) | [阅读笔记](notes/003_FinRL_X.md) | 已读，笔记待整理 |
+| 编号 | 论文名称 | 年份 | 研究领域 | 原文 | 笔记 |
+| --- | --- | --- | --- | --- | --- |
+| Paper 001 | [FinRL Contests: Data-Driven Financial Reinforcement Learning Agents for Stock and Crypto Trading](papers/001_FinRL_Contests/paper.md) | 2025 | 因子挖掘，强化学习，模型训练，量化交易，计算金融 | [出版社原文](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/aie2.12004) | [阅读笔记](notes/001_FinRL_Contests.md) |
+| Paper 002 | [智能体量化交易：工作流、系统与评估综述](papers/002_Agentic_Quantitative_Trading/paper.md) | 2026 | 智能体系统，量化交易 | [arXiv 原文](https://arxiv.org/abs/2608.31041) | [阅读笔记](notes/002_Agentic_Quantitative_Trading.md) |
+| Paper 003 | [FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading](papers/003_FinRL_X/paper.md) | 2026 | 量化交易基础设施，投资组合优化，强化学习 | [arXiv 原文](https://arxiv.org/abs/2603.21330v1) | [阅读笔记](notes/003_FinRL_X.md) |
